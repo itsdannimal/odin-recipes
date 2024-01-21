@@ -34,12 +34,7 @@ h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-/* tteokbokki.html Stylesheet */
-
-.tteok-title {
-    background-color: red;
-    color: white;
-}
+/* General Recipe Page Stylesheets */
 
 h2 {
     font-size: 40px;
@@ -52,4 +47,20 @@ h3 {
 }
 li {
     font-size: 25px;
+}
+
+/* Unique Recipe Page Stylesheets */
+
+.tteok-title {
+    background-color: red;
+    color: white;
+}
+
+.lpalfredo-title {
+    background-color: yellow;
+    color:black;
+}
+
+.lpalfredo-p {
+    font-size: 24px;
 }
