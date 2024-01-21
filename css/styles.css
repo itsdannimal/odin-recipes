@@ -1,0 +1,35 @@
+/* CSS Stylesheet */
+
+h1 {
+    font-size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+.link {
+    font-size: 50px;
+}
+
+.home-image {
+    height: auto;
+    width: 400px;
+    display: block;
+}
+
+.tteok-link {
+    background-color: red;
+    color: white;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+}
+
+.alfredo-link {
+    background-color: yellow;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.joy-link {
+    background-color: orange;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
