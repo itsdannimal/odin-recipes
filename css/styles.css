@@ -39,11 +39,16 @@ h1 {
 h2 {
     font-size: 40px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: solid gold 5px;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
 }
 
 h3 {
     font-size: 30px;
     font-family: "Verdana", Tahoma
+
 }
 li {
     font-size: 25px;
@@ -54,22 +59,36 @@ li {
 .tteok-title {
     background-color: red;
     color: white;
+    display: inline-block;
+    text-align: center;
+}
+
+.tteok-p {
+    font-size: 24px;
+    border: 10px dotted red;
+    padding: 5px;
 }
 
 .lpalfredo-title {
     background-color: yellow;
     color:black;
+    display: inline-block;
 }
 
 .lpalfredo-p {
     font-size: 24px;
+    border: 10px dotted yellow;
+    padding: 5px;
 }
 
 .joy-title {
     background-color: orange;
     color: black;
+    display: inline-block;
 }
 
 .joy-p {
     font-size: 24px;
+    border: 10px dotted orange;
+    padding: 5px;
 }
